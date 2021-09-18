@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+akanoid completed?
+=======
+Arkanoid started again ? Yea!
+
+
+>>>>>>> arkanoid-v2
