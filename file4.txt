@@ -1,2 +1,2 @@
-this is file from my_branch_4 before merge
+this is file from my_branch_4 after merge
 
